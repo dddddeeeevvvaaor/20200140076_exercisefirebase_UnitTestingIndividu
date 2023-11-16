@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938201403046",
+    "project_id": "stqa-e6c73",
+    "storage_bucket": "stqa-e6c73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938201403046:android:baf9cff8ad1f4905f4ee67",
+        "android_client_info": {
+          "package_name": "com.example.firebasematerial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2_QrUiU8u0dW7SrFX9WLfsTGetFi_KWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
